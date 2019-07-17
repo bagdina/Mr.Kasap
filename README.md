@@ -1,7 +1,7 @@
 # Mr.Kasap
 final project for arduino course 
 
-#Materials
+*Materials*
 1)Breadboard
 2)Wires
 3)Arduino UNO (with USB cable)
